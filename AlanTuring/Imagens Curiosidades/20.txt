@@ -1,0 +1,1 @@
+Turing havia começado a desenvolver um programa de xadrez para computador – que ainda não existia. Em 1952, como não existia nenhuma máquina poderosa que pudesse executar o programa, Turing jogou xadrez simulando o computador. O programa perdeu contra um amigo de Turing, Alick Glennie. http://tecnoartenews.com/noticias/100-anos-do-nascimento-de-alan-turing
